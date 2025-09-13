@@ -1,6 +1,10 @@
 This is a sync test line.
-<<<<<<< HEAD
+conflict-branch
+HEAD
 This is the CONFLICT branch edit.
-=======
+
 This is the MAIN branch edit.
->>>>>>> origin/main
+origin/main
+
+This is the MAIN branch edit.
+main
